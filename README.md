@@ -1,5 +1,5 @@
-<h1 align="center">Hola! Soy Rocío</h1>
-<h3 align="center">Una programadora titulada en Desarrollo de Aplicaciones Multiplataforma</h3>
+<h1 align="center">Hi! I'm Rocío</h1>
+<h3 align="center">A passionate developer graduated in DAM </h3>
 
 - 💬 Ask me about **Java, PHP, SQL, HTML5, CSS**
 
